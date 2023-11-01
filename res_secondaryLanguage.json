@@ -1,0 +1,213 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Runit Ranjan . @Software Engineer at Fountain9(Demand sensing and Inv. Management) | Ex - SDE2 at Applied Research Works Cozeva | B-Tech | CSE graduate | college -> IEM Kolkata |3.6yrs in IT",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": " Calculate Medication Days",
+      "startDate": "2021-2022",
+      "description": "•Designed and optimized schema and query to handle medication codes and mod-pos code. • Handled batch wise execution based on patients instead of measures. • Handled medication for millions of patients. • Calculated the medication days for overlap and discontinued medication days. • Calculated Compliancy of the patients for insurance.",
+      "images": [
+        "images/portfolio/calculate_medication_days/medication.jpg",
+        "images/portfolio/calculate_medication_days/ncqa.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "65"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "80"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Mongodb",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "85"
+        }
+      ]
+    },
+    {
+      "title": "Demographic change request of patients",
+      "startDate": "2023",
+      "description": "• Rest Api to handle requests. • Sending Notifications and handling tasks using celery • JWT tokens as access and bearer tokens • Integrated SSO (google) and Oauth2.0 for easier login. • Handled authorization using permissions and group. • Django, PostgreSQL, Redis (task queue), selenium testing, MongoDB (track of older info and logger), multiprocessing.",
+       "images": [
+        "images/portfolio/demographic_request/demographic2.png",
+        "images/portfolio/demographic_request/demographic1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Mongodb",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Selenium",
+          "class": "devicon-selenium-plain",
+          "level": "60"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "85"
+        }
+      ]
+    },
+    {
+      "title": "Supply Chain Management",
+      "startDate": "2022-2023",
+      "description":"• Implemented Capacity Constraints for Inventory management. (Django and Pandas Python) • Reduced wastage and stock out by 15% on implementing Inventory Rebalancing, stock out, and pile up (Numpy) • Transportation Optimization for Supply Chain Optimization • Safety stock constraints and minimum presentation quantity in Procurement Planning and Replenishment. • Implemented Complex Business logic on the backend side for Staggered Inventory plans (Production Planning).",
+      "images": [
+        "images/portfolio/supply_chain_mng/invRebalace.png",
+        "images/portfolio/supply_chain_mng/scm.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "65"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Mongodb",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Selenium",
+          "class": "devicon-selenium-plain",
+          "level": "60"
+        },
+        {
+          "name": "ReactJs",
+          "class": "devicon-react-plain",
+          "level": "85"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Fountain9",
+      "title": "Software Engineer",
+      "years": "April .2022 - Present",
+      "mainTech": [
+        "Python","Django","---> Supply Chain Management <---"
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "SQL",
+        "AWS",
+        "Mongo Db",
+        "Postgresql",
+        "Celery",
+        "OAuth & JWT",
+        "REST API",
+        "ReactJs",
+        "Docker",
+        "Jenkins"
+      ]
+    },
+    {
+      "company": "APPLIED RESEARCH WORKS COZEVA",
+      "title": "SDE 2",
+      "years": "Aug .2020 - Apr .2022",
+      "mainTech": [
+        "Python", "MySQL", "---> Health Care <---"
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "PLSQL",
+        "Mongo Db",
+        "Postgresql",
+        "OAuth & JWT",
+        "REST API",
+        "ReactJs",
+        "Github"
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Internship",
+      "years": "May .2019 - Sept .2019",
+      "mainTech": [
+        "Unity3D", "Java", "---> Game Development <---"
+      ],
+      "technologies": [
+        "AR/VR",
+        "Unity3D",
+        "Android Studio",
+        "Java"
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "basic_info": {
+    "name": "Runit Ranjan",
+    "titles": [
+      "Backend Developer",
+      "Software Engineer",
+      "Django Developer",
+      "Python"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/runitrupam",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "Leetcode",
+        "url": "https://leetcode.com/runitranjankumar/",
+        "class": "fab fa-cloud-sleet",
+        "image": "leetcode.svg"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/runit-ranjan-387069194",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "hackerrank",
+        "url": "https://www.hackerrank.com/rkumar9997",
+        "class": "fab fa-hackerrank"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@runitranjankumar",
+        "class": "fab fa-medium"
+      }
+
+    ],
+    "image": "runit pic.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "80"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "65"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "65"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Postgres",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Mongodb",
+        "class": "devicon-mongodb-plain",
+        "level": "60"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "ReactJs",
+        "class": "devicon-react-plain",
+        "level": "85"
+      },
+      {
+        "name": "DS/Algo",
+        "class": "devicon-thealgorithms-plain",
+        "level": "90"
+      }
+
+    ]
+  }
+}
