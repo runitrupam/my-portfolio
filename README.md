@@ -17,9 +17,13 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://runitrupam.github.io/my-portfolio/"><strong>here</strong></a>
 
-<!-- <img width="100%" src="https://runitrupam.github.io/my-portfolio/public/images/my_portfolio.png" alt="my portfolio preview"/> -->
 
-![Alt text](/public/images/my-portfolio.png)
+<img width="100%" src="https://github.com/runitrupam/my-portfolio/blob/master/public/images/my-portfolio.png" alt="my portfolio preview"/>
+
+
+
+
+<!-- ![](/public/images/my-portfolio.png) -->
 
 <h3>:books: Getting started</h3>
 
